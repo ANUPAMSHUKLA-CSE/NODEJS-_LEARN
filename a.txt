@@ -1,0 +1,10 @@
+COMMENT=>CTRL+/
+EXCLAMATION MARK+ENTER WHOLE ROUGH CODE WE GET
+META DATA IS DATA ABOUT DATA 
+U ARE DATA AND ANOTHER PERSON WILL IDENTIFY U FROM ROLL NO.
+<attributes height=” “ width=”” and so on>
+ORDERED LIST=>OL
+LIST=>LI
+Psuedoclass selector
+Row-inline display
+Column block level
